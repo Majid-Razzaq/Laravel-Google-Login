@@ -58,4 +58,4 @@ npm run build
    ],
    ```
 
-4) Create a google app here ((https://console.cloud.google.com)](https://console.cloud.google.com/)), and copy the App ID and App Secret into the above configuration.
+4) Create a google app here (https://console.cloud.google.com/), and copy the App ID and App Secret into the above configuration.
