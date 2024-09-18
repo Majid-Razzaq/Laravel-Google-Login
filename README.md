@@ -49,7 +49,7 @@ npm run build
     composer require laravel/socialite
    ```
 
-2) Configure your config/services.php file with your Facebook app keys:
+2) Configure your config/services.php file with your Google app keys:
    ```
    'google' => [
    'client_id' => 'Your App ID', 
@@ -58,4 +58,4 @@ npm run build
    ],
    ```
 
-4) Create a google app here ([https://developers.facebook.com/apps](https://console.cloud.google.com/)), and copy the App ID and App Secret into the above configuration.
+4) Create a google app here ([[https://developers.facebook.com/apps](https://console.cloud.google.com)](https://console.cloud.google.com/)), and copy the App ID and App Secret into the above configuration.
